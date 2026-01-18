@@ -1,0 +1,37 @@
+Kohinoor Inventory Management System
+
+Functional & Non-Functional Requirements
+
+Introduction
+This document presents the functional and non-functional requirements of the Kohinoor Inventory Management System, a Flutter-based mobile application using Firebase backend for managing inventory of blades, machines, and spare parts.
+Functional Requirements
+
+FR01: The system shall allow users to log in using registered credentials.
+FR02: The system shall allow authorized users to log out securely.
+FR03: The system shall allow adding new inventory items.
+FR04: The system shall allow updating inventory items.
+FR05: The system shall allow deleting inventory items.
+FR06: The system shall display inventory list.
+FR07: The system shall support item search.
+FR08: The system shall track item quantities.
+FR09: The system shall update stock in real-time.
+FR10: The system shall categorize inventory.
+FR11: The system shall show item details.
+FR12: The system shall store data in Firebase.
+FR13: The system shall sync data across devices.
+FR14: The system shall restrict access to owners.
+FR15: The system shall show low-stock alerts.
+FR16: The system shall provide dashboard statistics.
+FR17: The system shall log inventory changes.
+FR18: The system shall refresh data manually.
+FR19: The system shall validate user input.
+FR20: The system shall support future feature expansion.
+
+Non-Functional Requirements
+Performance: Fast response and real-time updates.
+Security: Firebase authentication and access control.
+Usability: Simple and intuitive UI.
+Reliability: High availability and data recovery.
+Scalability: Supports growth in users and data.
+Maintainability: Modular and clean codebase.
+Compatibility: Works on Android devices.
